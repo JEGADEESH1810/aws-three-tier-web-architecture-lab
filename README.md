@@ -75,3 +75,14 @@ Install Apache:
 sudo apt update -y
 sudo apt install apache2 -y
 sudo systemctl start apache2
+
+
+
+
+## 👤 Author
+
+Name: Jegadeesh  
+Role: Cloud Engineer (Fresher)  
+Location: Tamil Nadu, India  
+GitHub: https://github.com/JEGADEESH1810/ 
+Email: jegakaiser@gmail.com
